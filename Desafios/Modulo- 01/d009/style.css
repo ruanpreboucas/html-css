@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body{
+    background-color: #000000;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+a{
+    color:aliceblue
+}
